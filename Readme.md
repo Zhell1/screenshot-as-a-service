@@ -1,3 +1,5 @@
+zhell:  minor changes to be able to run on heroku
+
 # Screenshot as a Service
 
 A simple screenshot web service powered by [Express](http://expressjs.com) and [PhantomJS](http://www.phantomjs.org/). Forked from [screenshot-app](http://github.com/visionmedia/screenshot-app).
