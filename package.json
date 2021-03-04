@@ -12,6 +12,6 @@
     "request": "2.9.153"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node app.js"
   }
 }
